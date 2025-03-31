@@ -28,3 +28,33 @@ You can click the Preview link to take a look at your changes.
 ## 🌟 Mes cools stats
 
 ![Chaima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaima-Mnasri&show_icons=true&theme=dracula)
+## 💻 Tech Stack
+
+### Frontend:
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Sass  
+
+### Backend:
+- MongoDB  
+- Express JS  
+- Node JS  
+
+### Others:
+- VS Code  
+- Git / GitHub  
+- Linux  
+- Figma  
+
+---
+
+## 🚀 Projects
+
+- [🎵 Music App](https://lien-du-projet.com) : TypeScript (Projet en équipe)  
+- [🛍️ Amazing Shop](https://lien-du-projet.com) : React & Sass  
+- [📝 Markdown Previewer](https://lien-du-projet.com) : React & Sass  
+
+---
+
+
