@@ -57,5 +57,9 @@ You can click the Preview link to take a look at your changes.
 - [📝 Markdown Previewer](https://lien-du-projet.com) : React & Sass  
 
 ---
+## 🧠 My Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaima-Mnasri&layout=compact&theme=dracula)
+
 
 
